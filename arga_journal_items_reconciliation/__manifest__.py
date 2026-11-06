@@ -1,0 +1,16 @@
+{
+    "name": "Reconciled and Un-reconciled Journal Items Dedicated Menu",
+    "version": "16.0.1.0.0",
+    "category": "Accounting/Accounting",
+    "summary": "Dedicated journal item menus for full and pending reconciliation",
+    "author": "Arga Dwiki Suwandi",
+    "maintainer": "Arga Dwiki Suwandi",
+    "support": "argadwiki632@gmail.com",
+    "license": "OPL-1",
+    "price": 1.00,
+    "currency": "USD",
+    "images": ["static/description/banner.png"],
+    "depends": ["account"],
+    "data": ["views/account_move_line_views.xml"],
+    "installable": True,
+}
